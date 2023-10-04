@@ -1,0 +1,128 @@
+.left-section{
+    width: 54%;
+    float: left;
+    background-color:#fff;
+}
+.right-section{
+    width: 50%;
+    float: right;
+    color:#fff ;
+}
+body{
+    
+    margin: 0;
+
+}
+.logo-img{
+    width: 255px;
+    margin-left: 189px;
+    margin-top: 207px;
+    height: 45px;
+}
+.para1{
+    margin-left: 193px;
+    
+    margin-top: 14px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    color: #1c1e21;
+}
+.form{
+    margin-top: -235px;
+    margin-left: 410px;
+}
+.email-pass:hover{
+    border-color: #1877f2;
+}
+.email-pass{
+    width: 321px;
+    height: 51px;
+    border-width: thin;
+    border-radius: 6px;
+    margin-top: -13px;
+    border-color: #dddfe2;
+    
+}
+.log-btn{
+    width: 328px;
+    height: 51px;
+    border-radius: 6px;
+    border-width: thin;
+    background: #1877f2;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    border: none;
+}
+.forgot:hover{
+    text-decoration: underline;
+}
+.forgot{
+    float: right;
+    margin-right: -275px;
+    text-decoration: none;
+    margin-top: 14px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: blue;
+    margin-right: -230px;
+}
+.line span{
+    margin-left: 411px;
+    width: 330px;
+    margin-top: 51px;
+    color: whitesmoke;
+    float: right;
+    margin-right: -302px;
+    margin-top: 31px;
+}
+.crt-btn:hover{
+    background: darkgreen;
+}
+.crt-btn{
+    float: right;
+    margin-right: -302px;
+    margin-top: 31px;
+    height: 43px;
+    width: 193px;
+    height: 39px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    font-family: inherit;
+    background: #42b72a;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.line hr{
+    margin-left: 415px;
+    margin-top: 70px;
+    width: 323px;
+    color: whitesmoke;
+    margin-top: 42px;
+    margin-left: 414px;
+    width: 327px;
+    margin-left: 10px;
+}
+.crt:hover{
+    text-decoration: underline;
+}
+.crt{
+    float: right;
+    margin-top: 110px;
+    margin-right: -174px;
+    font-size: 16px;
+    font-family: inherit
+}
+.for{
+    margin-left: 120px;
+    float: right;
+    margin-right: -361px;
+    margin-top: 111px;
+    font-size: 14px;
+    color: gray;
+    font-weight: 200;
+}
